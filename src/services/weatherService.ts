@@ -1,4 +1,4 @@
-import { WeatherData, ForecastDay } from '@types';
+import { WeatherData, ForecastDay } from '../types';
 import { WEATHER_API_KEY, WEATHER_API_URL } from '@utils/constants';
 
 const mockWeatherData: WeatherData = {

@@ -1,5 +1,5 @@
 import React, {createContext, useContext, useState, useEffect} from 'react';
-import {User} from '@types';
+import {User} from '../types';
 import {storageService} from '@services/storageService';
 import {STORAGE_KEYS} from '@utils/constants';
 

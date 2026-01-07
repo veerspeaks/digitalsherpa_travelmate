@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { useTrips } from '@contexts/TripContext';
 import { weatherService } from '@services/weatherService';
-import { WeatherData } from '@types';
+import { WeatherData } from '../../types';
 import { Card } from '@components/common/Card';
 import { LoadingSpinner } from '@components/common/LoadingSpinner';
 import { EmptyState } from '@components/common/EmptyState';
