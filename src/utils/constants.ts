@@ -8,7 +8,7 @@ export const STORAGE_KEYS = {
   FEEDBACK: 'feedback',
 };
 
-export const WEATHER_API_KEY = 'c26aa1f0893322e02968ce0a6b935e10';
+export const WEATHER_API_KEY = 'USE YOUR APK KEY HERE';
 export const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5';
 
 export const COLORS = {
